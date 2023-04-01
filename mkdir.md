@@ -4,7 +4,7 @@ Comando mkdir serve para criar pastas/diretórios
 
 ---
 
-## Criando pasta ou um diretório
+## Criando pasta/diretório
 
 ```bash
 mkdir pasta
