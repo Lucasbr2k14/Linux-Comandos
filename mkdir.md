@@ -1,6 +1,6 @@
 # Comando mkdir
 
-Comando mkdir serve para criar pastas
+Comando mkdir serve para criar pastas/diretórios
 
 ---
 
